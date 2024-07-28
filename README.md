@@ -1,3 +1,5 @@
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/68208501-87f2-4e1d-bbb4-d81f6a5b7736)
+
 <h1 align="center">Hi 👋, I'm Charan Puttala</h1>
 <h3 align="center">I'm a passionate developer specializing in data analytics and data engineering, with a strong focus on financial transaction processing and data analysis. I enjoy leveraging my skills in SQL, Python, Flask, Pandas, and NumPy to build robust and efficient data systems. My projects often involve advanced data manipulation, machine learning, data visualization, and optimizing data workflows through automation.</h3>
 <img align="right" alt="coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l3d3Z6NG51eHd4bzE0OHlqZ2F0ODlsZTEyN2p6bXJrdmk1MXdweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
