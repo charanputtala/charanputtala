@@ -50,10 +50,26 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charanputtala&show_icons=true&locale=en&layout=compact" alt="charanputtala" /></p>
+### Best frameworks and main libraries for Python3:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charanputtala&show_icons=true&locale=en" alt="charanputtala" /></p>
+| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
+
+### My tools for Data Manipulation & Visualisation:
+
+| Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Plotly | Matpltlib |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanputtala&size_weight=0.5&count_weight=0.5)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanputtala)](https://github.com/charanputtala/github-readme-stats)
+
+
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charanputtala&" alt="charanputtala" /></p>
 
 ###
