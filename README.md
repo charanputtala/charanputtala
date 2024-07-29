@@ -56,4 +56,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charanputtala&" alt="charanputtala" /></p>
 
-![snake gif](https://github.com/charanputtala/charanputtala/blob/output/github-contribution-grid-snake.svg)
+###
+
+<img src="https://raw.githubusercontent.com/charanputtala/charanputtala/output/snake.svg" alt="Snake animation" />
+
