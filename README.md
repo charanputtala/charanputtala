@@ -50,7 +50,7 @@
 </div>
 
 
-### Best frameworks and main libraries for Python3:
+### My Best frameworks and main libraries for Python3:
 
 | Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
 |----------|----------|----------|----------|----------|----------|
