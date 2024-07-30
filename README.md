@@ -72,6 +72,15 @@
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charanputtala&" alt="charanputtala" /></p>
 
+
+<h3 align="left">A lost dinosaur trying to find his home ;) </h3>
+
+<div align="center">
+<img align="left" width="500" alt="GIF" src="https://github.com/charanputtala/gifs_for_readme/blob/main/dino.gif" />
+</div>
+<br/>
+<br/>
+
 ###
 
 <img src="https://raw.githubusercontent.com/charanputtala/charanputtala/output/snake.svg" alt="Snake animation" />
