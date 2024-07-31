@@ -1,6 +1,8 @@
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/68208501-87f2-4e1d-bbb4-d81f6a5b7736)
 
-<h1 align="center">Hi 👋, I'm Charan Puttala</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+Myself+Charan+Puttala;Great+to+have+you+here!"></h> 
+
 <h3 align="center">I'm a passionate developer specializing in data analytics and data engineering, with a strong focus on financial transaction processing and data analysis. I enjoy leveraging my skills in SQL, Python, Flask, Pandas, and NumPy to build robust and efficient data systems. My projects often involve advanced data manipulation, machine learning, data visualization, and optimizing data workflows through automation.</h3>
 <img align="right" alt="coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l3d3Z6NG51eHd4bzE0OHlqZ2F0ODlsZTEyN2p6bXJrdmk1MXdweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
 
@@ -81,9 +83,9 @@
 <br/>
 <br/>
 
-###
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/charanputtala/gifs_for_readme/blob/main/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/charanputtala/charanputtala/output/snake.svg" alt="Snake animation" />
+###
 
 
 <p align="left">
