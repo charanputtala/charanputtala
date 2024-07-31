@@ -75,13 +75,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charanputtala&" alt="charanputtala" /></p>
 
 
-<h3 align="left">A lost dinosaur trying to find his home ;) </h3>
+<h2 align="center">A lost dinosaur trying to find his home ;) </h2>
 
 <div align="center">
-<img align="left" width="500" alt="GIF" src="https://github.com/charanputtala/gifs_for_readme/blob/main/dino.gif" />
+<img align="center" width="500" alt="GIF" src="https://github.com/charanputtala/gifs_for_readme/blob/main/dino.gif" />
 </div>
 <br/>
 <br/>
+
+<h2 align="center">On a bulk diet, 🐍  </h2>
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/charanputtala/gifs_for_readme/blob/main/github-contribution-grid-snake.svg)
 
