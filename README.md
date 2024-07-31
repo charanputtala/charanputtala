@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+Myself+Charan+Puttala;Great+to+have+you+here!"></h> 
 
 <h3 align="center">I'm a passionate developer specializing in data analytics and data engineering, with a strong focus on financial transaction processing and data analysis. I enjoy leveraging my skills in SQL, Python, Flask, Pandas, and NumPy to build robust and efficient data systems. My projects often involve advanced data manipulation, machine learning, data visualization, and optimizing data workflows through automation.</h3>
-<img align="right" alt="coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l3d3Z6NG51eHd4bzE0OHlqZ2F0ODlsZTEyN2p6bXJrdmk1MXdweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
+<img align="right" alt="coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l3d3Z6NG51eHd4bzE0OHlqZ2F0ODlsZTEyN2p6bXJrdmk1MXdweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanputtala&label=Profile%20views&color=0e75b6&style=flat" alt="charanputtala" /> </p>
 
