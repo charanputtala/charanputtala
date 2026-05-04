@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+Myself+Charan+Puttala;Great+to+have+you+here!">
 </h1> 
 
-<h3 align="center">I'm a Systems & Operations Specialist building powerful internal tools at startups using Airtable, Supabase, Next.js, and automation platforms like Zapier and Make. I love working at the intersection of data, systems thinking, and clean, user-focused design. Currently helping startups streamline sales workflows, reporting, and productized ops using lightweight, high-leverage tech.</h3>
+<h3 align="center">I'm a Product & Automation Engineer specializing in building scalable marketplace platforms, internal tools, and automation-driven systems across sales, operations, and finance. Experienced in full-stack development, backend architecture, and event-driven workflows using modern tools and APIs. Proven ability to design reliable, data-driven systems that streamline operations and enable business growth.</h3>
 
 <img align="right" alt="coding" width="170" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l3d3Z6NG51eHd4bzE0OHlqZ2F0ODlsZTEyN2p6bXJrdmk1MXdweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanputtala&label=Profile%20views&color=0e75b6&style=flat" alt="charanputtala" /> </p>
 
-- 💼 Currently: **Data Systems & Automatioms Analyst @ Stack Solutions Group**
+- 💼 Currently: **Product & Automation Engineer @ Stack Solutions Group**
 - 🌐 Portfolio: [charanputtala.vercel.app](https://charanputtala.vercel.app)
 - 💬 Ask me about **Internal Tooling, Airtable Systems, Automations, Data Analysis**
 - 📫 Reach me: **justcharan1124@gmail.com**
