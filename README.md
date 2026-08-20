@@ -1,88 +1,186 @@
-
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+Myself+Charan+Puttala;Great+to+have+you+here!">
-</h1> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hey%2C+I'm+Charan+Puttala;Product+%26+Automation+Engineer;Building+Products%2C+AI+%26+Automation">
+</h1>
 
-<h3 align="center">I'm a Product & Automation Engineer specializing in building scalable marketplace platforms, internal tools, and automation-driven systems across sales, operations, and finance. Experienced in full-stack development, backend architecture, and event-driven workflows using modern tools and APIs. Proven ability to design reliable, data-driven systems that streamline operations and enable business growth.</h3>
+<h3 align="center">
+  I build full-stack products, AI-powered automations, and scalable business systems that eliminate manual work and help teams operate better.
+</h3>
+
+<p align="center">
+  <a href="https://charanputtala.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-charanputtala.xyz-black?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/charanputtala">
+    <img src="https://img.shields.io/badge/LinkedIn-Charan%20Puttala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <img align="right" alt="coding" width="170" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l3d3Z6NG51eHd4bzE0OHlqZ2F0ODlsZTEyN2p6bXJrdmk1MXdweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charanputtala&label=Profile%20views&color=0e75b6&style=flat" alt="charanputtala" /> </p>
-
-- 💼 Currently: **Product & Automation Engineer @ Stack Solutions Group**
-- 🌐 Portfolio: [charanputtala.vercel.app](https://charanputtala.vercel.app)
-- 💬 Ask me about **Internal Tooling, Airtable Systems, Automations, Data Analysis**
-- 📫 Reach me: **justcharan1124@gmail.com**
-- ⚡ Favorite stack: **Next.js + Supabase + Airtable + Tailwind + Zapier**
-
----
-
-<h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/charanputtala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charanputtala" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=charanputtala&label=Profile%20views&color=0e75b6&style=flat" alt="charanputtala" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/airtable/000" height="30" alt="airtable logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="30" alt="zapier logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000" height="30" alt="vercel logo" />
-</div>
+### 👋 About Me
+
+I'm a **Product & Automation Engineer** focused on building technology that solves real business problems.
+
+My work sits at the intersection of **product engineering, AI, automation, backend systems, and business operations**. I enjoy taking messy, manual processes and turning them into reliable platforms, workflows, and data systems.
+
+I've built and maintained production systems across:
+
+- 🚀 Full-stack product and platform development
+- 🤖 AI-powered workflows and LLM integrations
+- ⚙️ Business process and workflow automation
+- 🔌 REST APIs, webhooks, and third-party integrations
+- 🗄️ PostgreSQL, Supabase, SQL, and data workflows
+- 📊 Reporting, dashboards, and analytics infrastructure
+- 🔐 Authentication and production application infrastructure
+
+I like owning problems end to end: **understand → design → build → test → deploy → improve.**
 
 ---
 
-### 🔧 My Favorite Python Libraries
+## 🚀 What I Build
 
-| Pydantic | FastAPI | Pandas | Numpy | Selenium | OpenCV |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://cdn.simpleicons.org/pydantic/blue" height="55" />|<img src="https://cdn.simpleicons.org/fastapi/009688" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="55"/>|
-
----
-
-### 📊 Data & Reporting Tools I Use
-
-| Metabase | Tableau | Power BI | MySQL | PostgreSQL | SQLite | Plotly |
-|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://cdn.simpleicons.org/metabase/509EE3" height="55"/>|<img src="https://cdn.simpleicons.org/tableau/E97627" height="55"/>|<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="55"/>|<img src="https://cdn.simpleicons.org/mysql/4479A1" height="55"/>|<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="55"/>|<img src="https://cdn.simpleicons.org/sqlite/003B57" height="55"/>|<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="55"/>|
+| Area | What I Work On |
+|------|----------------|
+| 🤖 **AI & Automation** | AI workflows, LLM integrations, n8n, Make, Zapier |
+| 💻 **Product Engineering** | Full-stack applications, SaaS platforms, internal tools |
+| ⚙️ **Business Systems** | CRM workflows, operational platforms, process automation |
+| 🔌 **Integrations** | REST APIs, webhooks, authentication, third-party systems |
+| 🗄️ **Backend & Data** | Supabase, PostgreSQL, SQL, data pipelines |
+| 📊 **Analytics** | Metabase, Power BI, Tableau, Google Sheets |
+| ☁️ **Infrastructure** | Vercel, AWS, Railway, production deployments |
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=charanputtala&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Charan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanputtala&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charanputtala&" alt="charanputtala" /></p>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,sql" />
+</p>
+
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
+
+### Databases & Backend Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
+</p>
+
+### AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+### Analytics & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+</p>
+
+### Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,postman" />
+</p>
 
 ---
 
-<h2 align="center">A lost dinosaur trying to find his home 🦖</h2>
+## 💼 Experience
 
-<div align="center">
-<img align="center" width="500" alt="GIF" src="https://github.com/charanputtala/gifs_for_readme/blob/main/dino.gif" />
-</div>
+### Product & Automation Engineer
+**Stack Solutions Group | London, UK | Remote**
+
+- Building and maintaining production platforms across sales, operations, finance, and talent.
+- Developing full-stack applications using Next.js, TypeScript, Node.js, Supabase, and PostgreSQL.
+- Designing automation workflows using Zapier, Make, n8n, APIs, webhooks, and Google Apps Script.
+- Building AI-powered workflows and integrating LLM capabilities into business processes.
+- Developing reporting systems and operational dashboards for data-driven decision making.
+- Maintaining and improving 7+ QA automation frameworks.
+
+### Founding Engineer
+**Stack Solutions Marketplace**
+
+- Built and developed the marketplace platform from the ground up.
+- Worked across product architecture, frontend, backend, database design, integrations, automation, and deployment.
+- Collaborated directly with the founding team to turn business requirements into production systems.
+- Focused on building scalable systems that support real operational workflows.
 
 ---
 
-<h2 align="center">On a bulk diet, 🐍  </h2>
+## 🧠 How I Think About Engineering
 
-![GitHub Contribution Snake](https://github.com/charanputtala/gifs_for_readme/blob/main/github-contribution-grid-snake.svg)
+> **Technology should remove friction, not create it.**
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+for+Visiting+!!">
-</h1> 
+Before building something, I try to understand the actual business problem.
 
-<p align="left">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+Then I ask:
+
+**Can this be automated?**  
+**Can this be simplified?**  
+**Does this need custom code?**  
+**How will this behave in production?**  
+**How will someone maintain it six months from now?**
+
+I prefer practical systems that are reliable, maintainable, and actually used.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charanputtala&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanputtala&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charanputtala&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/charanputtala/gifs_for_readme/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🦖 A lost dinosaur trying to find his home
+
+<p align="center">
+  <img width="500" src="https://github.com/charanputtala/gifs_for_readme/blob/main/dino.gif" alt="Dinosaur" />
+</p>
+
+---
+
+<h2 align="center">
+  Let's build something useful.
+</h2>
+
+<p align="center">
+  <a href="https://charanputtala.xyz">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/charanputtala">💼 LinkedIn</a> •
+  <a href="mailto:justcharan1124@gmail.com">📧 Email</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
